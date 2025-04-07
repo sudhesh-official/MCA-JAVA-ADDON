@@ -23,6 +23,11 @@ public class OneDimensional {
 		}
 	}
 	
+	public void displayForEachLoop() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public void minmax() {
 		System.out.println("Find Minimum Maximum: ");
 		int min, max;

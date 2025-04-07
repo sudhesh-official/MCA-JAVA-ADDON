@@ -1,0 +1,10 @@
+package L09.InheritanceInJava;
+
+public class Mammal extends Animal{
+	
+	public void displayInfo() {
+		System.out.println("I am a mammal.");
+		name = "test";
+	}
+
+}

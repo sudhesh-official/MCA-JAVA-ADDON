@@ -1,0 +1,10 @@
+package L07.DefaultConstructorInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Smartphone phone = new Smartphone("Samsung");
+		System.out.println(phone.getBrand());
+	}
+
+}
