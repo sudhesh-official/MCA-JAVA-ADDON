@@ -1,0 +1,19 @@
+package L09.EnumInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Learning learning = Learning.GENERICS;
+		
+		switch (learning) {
+		case COREJAVA -> System.out.println("Core Java");
+		case COLLECTIONS -> System.out.println("Collections");
+		case GENERICS -> System.out.println("Generics");
+		case JSP -> System.out.println("JSP");
+		case MULTITHREADING -> System.out.println("Multithreading");
+		}
+
+	}
+
+}

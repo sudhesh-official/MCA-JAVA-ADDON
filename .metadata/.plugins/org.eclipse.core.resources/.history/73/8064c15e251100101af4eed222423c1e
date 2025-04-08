@@ -1,0 +1,17 @@
+package controlstatements;
+
+public class SwitchStatement {
+
+	public static void main(String[] args) {
+		
+		/**
+		 * switch statement:
+		 * The switch statement evaluates an expression and executes different blocks of code 
+		 * based on different cases. 
+		 * It provides an alternative to long if-else chains.
+		 */
+		
+		int day = 3;
+	}
+
+}

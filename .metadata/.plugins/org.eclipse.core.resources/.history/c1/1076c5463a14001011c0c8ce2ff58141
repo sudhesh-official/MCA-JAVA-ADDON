@@ -1,0 +1,5 @@
+package L05.FinalInJava;
+
+public class Child extends Parent{
+
+}

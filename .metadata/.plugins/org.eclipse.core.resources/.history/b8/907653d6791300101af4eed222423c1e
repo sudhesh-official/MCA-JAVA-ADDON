@@ -1,0 +1,12 @@
+package L04.AddingFunctionalityToJavaClass;
+
+public class Car {
+	
+	private String doors;
+    private String engine;
+    private String driver;
+    private int speed;
+	
+    
+	
+}

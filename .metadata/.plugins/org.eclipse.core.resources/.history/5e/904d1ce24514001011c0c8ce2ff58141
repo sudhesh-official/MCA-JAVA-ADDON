@@ -1,0 +1,17 @@
+package L08.ExceptionHandling;
+
+public class ThrowKeyword {
+
+	public static void main(String[] args) {
+		Main main = new Main();
+		try {
+			main.doSomething();
+		}
+
+	}
+	
+	public void doSomething() {
+		System.out.println("Do something!");
+	}
+	
+}

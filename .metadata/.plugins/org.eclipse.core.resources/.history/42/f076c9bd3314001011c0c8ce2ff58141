@@ -1,0 +1,5 @@
+package L02.AbstractClassesInJava;
+
+public abstract class Person {
+
+}

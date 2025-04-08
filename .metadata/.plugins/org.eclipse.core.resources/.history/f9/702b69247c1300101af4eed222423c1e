@@ -1,0 +1,13 @@
+package L06.ConstructorIntroductionInJava;
+
+public class Car {
+	
+	Car(){
+		System.out.println("working");
+	}
+	
+	public void fun1() {
+		System.out.println("fun1");
+	}
+
+}

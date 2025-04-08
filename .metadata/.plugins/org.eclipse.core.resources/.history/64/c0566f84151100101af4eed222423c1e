@@ -1,0 +1,106 @@
+package operators;
+
+public class Operators {
+
+	public static void main(String[] args) {
+		/**
+		 * Operators Definition:
+		 * Operator in Java is a symbol that is used to perform operations.
+		 *  ● Unary Operator,
+			● Arithmetic Operator,
+			● Shift Operator,
+			● Relational Operator,
+			● Bitwise Operator,
+			● Logical Operator,
+			● Ternary Operator,
+			● Assignment Operator.
+		 */
+		/*
+		 * Unary Operator:
+		 * Unary operators act on a single operand and perform operations 
+		 * such as incrementing, decrementing, or negating its value
+		 * */
+		int a = 10;
+		// Increment (++):
+		System.out.println(a++); // Increases the value of the operand by 1.
+		System.out.println(a);
+		System.out.println(++a);
+		// Decrement (--): Decreases the value of the operand by 1.
+		
+		// Arithmetic Operator:
+		/*
+		 * Arithmetic operators perform mathematical operations on numeric 
+		 * operands.
+		 */
+		System.out.println("Addition (+):" + (10 + 4));
+		System.out.println("Subtraction (-):" + (10 - 4));
+		System.out.println("Multiplication (*):" + (10 * 4));
+		System.out.println("Division (/):" + (10.0 / 4));
+		System.out.println("Modulus (%):" + (10 % 4));
+		// Operator Precedence
+		System.out.println(30 / (2 * 3)); // 5
+		
+		/**
+		 * Relational Operator: 
+		 * Relational operators compare two operands and return a 
+		 * boolean value
+		 */
+		System.out.println("Equal to (==):" + (10 == 4));
+		System.out.println("Not equal to (!=):" + (10 != 4));
+		System.out.println("Greater than (>)" + (10 > 4));
+		System.out.println("Greater than or equal to (>=)," + (10 >= 4));
+		System.out.println("Less than (<)" + (10 < 4));
+		System.out.println("Less than or equal to (<=):" + (10 <= 4));
+		
+		/**
+		 * Logical Operator:
+		 * Logical operators perform logical operations on boolean 
+		 * expressions and return a boolean value
+		 */
+		// Logical AND: Returns true if both operands are true.
+		System.out.println("Logical AND (&&):" + ((10 <= 4) && (10 >= 4)));
+		// Logical OR (||): Returns true if either of the operands is true.
+		System.out.println("Logical OR (||):" + ((10 <= 4) || (10 >= 4)));
+		// Logical NOT (!): Negates the boolean value of the operand.
+		System.out.println("Logical NOT (!):" + !((10 <= 4) && (10 >= 4)));
+		
+		
+		/**
+		 * Ternary Operator:
+		 * The ternary operator (? :) is a conditional operator that evaluates a 
+		 * boolean expression and returns one of two values based on the result.
+		 */
+		
+		String result = (10 >= 4) ? "👍👍👍" : "😎😎😎" ;
+		System.out.println(result);
+		
+		
+	/**
+	 * Assignment Operator
+	 * The assignment operator (=) assigns a value to a variable. Compound 
+	 * assignment operators (e.g., +=, -=) combine arithmetic operations with 
+	 * assignment.
+	 */
+		
+	int b = 10;
+	b++;
+	System.out.println(b);
+	b = b + 2;
+	System.out.println(b);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

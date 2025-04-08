@@ -1,0 +1,12 @@
+package L02.AbstractClassesInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Person person = new Pooja();
+		person.eat();
+		Person person2 = new John();
+	}
+
+}

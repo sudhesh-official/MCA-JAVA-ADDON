@@ -1,0 +1,12 @@
+package L10.Polymorphism;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// Method-Overloading
+		Calculator cal = new Calculator();
+		cal.add(1.1, 1.1);
+	}
+
+}

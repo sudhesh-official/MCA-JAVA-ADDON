@@ -1,0 +1,13 @@
+package datatypes;
+
+public class Example {
+
+	public static void main(String[] args) {
+		
+			/**
+			 * Primitive data types - includes byte, short, int, long, float, double, boolean and char
+			 */
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package datatypes;
+
+public class AreaOfTheCircle {
+
+	public static void main(String[] args) {
+		
+		// r = 7; (22/7.0) * r * r; 154 or 153.12345985
+		
+		int r = 7;
+		
+		double result1 = Math.PI * r * r ;
+		
+		System.out.println("Result1 : " + result1);
+		
+
+	}
+
+}

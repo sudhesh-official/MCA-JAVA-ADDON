@@ -1,0 +1,12 @@
+package arrays;
+
+public class OneDimensional {
+	
+	int[] marks;
+	
+	public void dataSet() {
+		// TODO Auto-generated method stub
+
+	}
+	
+}

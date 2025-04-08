@@ -1,0 +1,44 @@
+package L09.InheritanceInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		/**
+		 * Single inheritance involves a subclass inheriting from a single superclass. 
+		 * It forms a direct parent-child relationship between two classes.
+		 */
+		/*
+		Bike bike = new Bike();
+		bike.handle = "Short";
+		bike.engine = "Petrol";
+		System.out.println(bike.engine);
+		*/
+		/**
+		 * Multilevel Inheritance:
+		 * Multilevel inheritance involves a subclass becoming the superclass
+		 * for another subclass
+		 */
+		Dog d = new Dog();
+		d.bark();
+		d.displayInfo();
+		d.setName("Dog");
+		System.out.println(d.name);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

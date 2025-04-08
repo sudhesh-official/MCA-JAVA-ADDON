@@ -1,0 +1,12 @@
+package second.pack;
+
+public class Human {
+
+	public void head() {
+		System.out.println("Hand Working");
+	}
+	
+	public void hand() {
+		System.out.println("Hand Working");
+	}
+}

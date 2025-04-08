@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="second.pack.Human"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="arrays.OneDimensional"/>
+    <fullyQualifiedTypeName name="L06.ConstructorIntroductionInJava.Car"/>
+    <fullyQualifiedTypeName name="L09.InheritanceInJava.Vehicle"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Calculator"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Dog"/>
+</qualifiedTypeNameHistroy>

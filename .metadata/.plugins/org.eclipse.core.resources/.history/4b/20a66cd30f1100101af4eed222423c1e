@@ -1,0 +1,50 @@
+package operators;
+
+public class Operators {
+
+	public static void main(String[] args) {
+		/**
+		 * Operators Definition:
+		 * Operator in Java is a symbol that is used to perform operations.
+		 *  ● Unary Operator,
+			● Arithmetic Operator,
+			● Shift Operator,
+			● Relational Operator,
+			● Bitwise Operator,
+			● Logical Operator,
+			● Ternary Operator,
+			● Assignment Operator.
+		 */
+		/*
+		 * Unary Operator:
+		 * Unary operators act on a single operand and perform operations 
+		 * such as incrementing, decrementing, or negating its value
+		 * */
+		int a = 10;
+		// Increment (++):
+		System.out.println(a++); // Increases the value of the operand by 1.
+		System.out.println(a);
+		System.out.println(++a);
+		// Decrement (--): Decreases the value of the operand by 1.
+		
+		// Arithmetic Operator:
+		/*
+		 * Arithmetic operators perform mathematical operations on numeric 
+		 * operands.
+		 */
+		System.out.println("Addition (+):" + (10 + 4));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

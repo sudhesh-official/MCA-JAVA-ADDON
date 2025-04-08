@@ -1,0 +1,5 @@
+package L09.EnumInJava;
+
+public enum Learning {
+
+}

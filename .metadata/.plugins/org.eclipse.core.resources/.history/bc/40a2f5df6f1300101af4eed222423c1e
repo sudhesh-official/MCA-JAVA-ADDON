@@ -1,0 +1,8 @@
+package L02.GettersAndSettersInJavaClasses;
+
+public class Car {
+	public String doors;
+	public String engine;
+	public String driver;
+	public int speed;
+}

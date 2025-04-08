@@ -1,0 +1,10 @@
+package L10.StringFormattingInJava;
+
+public class TestFormat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

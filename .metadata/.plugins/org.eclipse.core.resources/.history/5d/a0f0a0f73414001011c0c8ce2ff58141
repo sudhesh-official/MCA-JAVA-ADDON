@@ -1,0 +1,11 @@
+package L02.AbstractClassesInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Person person; // reference variable
+		person = new Pooja();
+	}
+
+}

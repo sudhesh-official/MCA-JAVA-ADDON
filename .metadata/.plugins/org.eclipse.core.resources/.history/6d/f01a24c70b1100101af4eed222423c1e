@@ -1,0 +1,19 @@
+package variables;
+
+public class VariableTypes {
+
+	public static void main(String[] args) {
+		/**
+		 * Variables and their types in Java
+		 * local variables, instance variables, and static variables
+		 * Local Variables:
+		 * Key points:
+		 * They are declared within a method, constructor, or block using 
+		 * the appropriate data type.
+		 */
+		int num = 10; // Local variable
+		System.out.println(num);
+
+	}
+
+}

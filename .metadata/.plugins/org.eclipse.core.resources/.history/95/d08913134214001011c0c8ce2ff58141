@@ -1,0 +1,18 @@
+package L07.StringHandlingInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String a = "study";
+		String b = "easy";
+		boolean c = true;
+		System.out.println(c);
+		if (c == true) {
+			System.out.println("studyeasy");
+		} else {
+			System.out.println("Studyhard");
+		}
+	}
+
+}

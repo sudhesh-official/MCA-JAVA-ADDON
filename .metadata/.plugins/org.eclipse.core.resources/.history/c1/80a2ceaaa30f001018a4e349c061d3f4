@@ -1,0 +1,35 @@
+package datatypes;
+
+import java.util.Scanner;
+
+public class Example {
+
+	public static void main(String[] args) {
+		
+			/**
+			 * Primitive data types
+			 * byte, short, int, long, float, double, boolean and char
+			 */
+		//1. Number Representing (whole numbers)
+		// Variable declaration as well as initialization
+		byte a = 127;
+		short b = 32767;
+		int c = 2_147_483_647;
+		long d = 9_223_372_036_854_775_807L;
+		
+		// decimal numbers (fractional numbers.)
+		float e = 1.1234567f;
+		double f = 1.1234567891011121314;
+		
+		// Display the result
+		System.out.println("Byte type: " + a);
+		System.out.println("Short type: " + b);
+		System.out.println("Int type: " + c);
+		System.out.println("Long type: " + d);
+		System.out.println("Float type: " + e);
+		
+		
+
+	}
+
+}

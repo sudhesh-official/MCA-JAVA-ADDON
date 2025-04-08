@@ -1,0 +1,11 @@
+package L05.FinalInJava;
+
+public class Child extends Parent{
+	
+	@Override
+	public void USA() {
+		super.USA();
+		System.out.println("USA is Fantastic!! with nice people");
+	}
+
+}

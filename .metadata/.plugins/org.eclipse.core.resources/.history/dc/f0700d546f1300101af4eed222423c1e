@@ -1,0 +1,8 @@
+package L01.GettingStartedWithClasses;
+
+public class Car {
+	String doors;
+	String engine;
+	String driver;
+	int speed;
+}

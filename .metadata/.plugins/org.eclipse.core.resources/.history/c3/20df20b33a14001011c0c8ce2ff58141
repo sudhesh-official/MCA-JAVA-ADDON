@@ -1,0 +1,13 @@
+package L05.FinalInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Child child = new Child();
+		 System.out.println(child.getX());
+		//child.India();
+        //child.USA();
+
+	}
+
+}

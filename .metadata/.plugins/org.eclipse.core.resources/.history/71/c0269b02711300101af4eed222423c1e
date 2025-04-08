@@ -1,0 +1,14 @@
+package L02.GettersAndSettersInJavaClasses;
+
+public class Car {
+	private int doors = 4;
+	private String engine;
+	private String driver;
+	private int speed;
+	
+	public int getDoors() {
+		return doors;
+	}
+	
+	
+}

@@ -1,0 +1,14 @@
+package first.pack;
+
+import second.pack.Human;
+
+public class FirstClass {
+
+	public static void main(String[] args) {
+		System.out.println("First Package Class");
+		Human karthik = new Human();
+		karthik.head();
+		karthik.hand();
+	}
+
+}

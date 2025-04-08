@@ -1,0 +1,25 @@
+package L08.ExceptionHandling;
+
+public class UserDefinedException {
+
+	public static void main(String[] args) {
+		UserDefinedException main = new UserDefinedException();
+		//main.doSomething();
+		try {
+			main.doSomething();
+		} catch (ZeroException e) {
+			e.printStackTrace();
+		}
+
+	}
+	
+	public void doSomething() throws ZeroException{
+		String x = "zero";
+		if(x.equals("zero")) {
+			// throw new RuntimeException();
+			throw new ZeroException();
+		}
+		System.out.println("Do something!");
+	}
+
+}

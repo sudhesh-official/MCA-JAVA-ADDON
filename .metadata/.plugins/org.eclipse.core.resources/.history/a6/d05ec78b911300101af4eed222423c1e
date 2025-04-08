@@ -1,0 +1,6 @@
+package L10.Polymorphism;
+
+public class Dog extends Animal{
+	
+
+}

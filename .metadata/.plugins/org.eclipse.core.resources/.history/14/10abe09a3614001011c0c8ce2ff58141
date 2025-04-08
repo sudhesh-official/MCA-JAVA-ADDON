@@ -1,0 +1,13 @@
+package L03.NonStaticInnerClassInJava;
+
+public class Shop {
+	
+	private class Lock {
+		private boolean locking = true;
+		
+	
+		
+		
+	}
+	
+}

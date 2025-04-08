@@ -1,0 +1,19 @@
+package methods;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		loop(1, 10);
+	}
+
+	public static void loop(int start, int stop) {
+		for(; start <= stop; start++) {
+			System.out.println(start);
+		}
+	}
+	
+	public void areaOfRectangle() {
+		// TODO Auto-generated method stub
+
+	}
+}

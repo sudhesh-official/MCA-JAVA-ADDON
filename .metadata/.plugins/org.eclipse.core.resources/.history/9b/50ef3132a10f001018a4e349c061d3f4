@@ -1,0 +1,27 @@
+package datatypes;
+
+import java.util.Scanner;
+
+public class Example {
+
+	public static void main(String[] args) {
+		
+			/**
+			 * Primitive data types
+			 * byte, short, int, long, float, double, boolean and char
+			 */
+		Scanner in = new Scanner(System.in);
+		
+		System.out.println("Enter the Principle amount: ");
+		int p = in.nextInt();
+		int n = in.nextInt();
+		int r = in.nextInt();
+		
+		float result = p * n * r / 100;
+		
+		System.out.println("Intrest amount: " + result);
+		
+
+	}
+
+}

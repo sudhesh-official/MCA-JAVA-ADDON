@@ -1,0 +1,18 @@
+package arrays;
+
+public class TwoDimentional {
+	
+	int[][] marks;
+	
+	public void dataSet() {
+		/*
+		marks = new int[3][3];
+		marks[0][0] = 10;
+		marks[0][1] = 20; */
+		
+		marks = new int[][] {
+		
+		}
+	}
+
+}

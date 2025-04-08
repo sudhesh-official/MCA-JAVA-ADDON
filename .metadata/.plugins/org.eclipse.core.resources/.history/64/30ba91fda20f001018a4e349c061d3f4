@@ -1,0 +1,23 @@
+package datatypes;
+
+import java.util.Scanner;
+
+public class Example {
+
+	public static void main(String[] args) {
+		
+			/**
+			 * Primitive data types
+			 * byte, short, int, long, float, double, boolean and char
+			 */
+		//1. Number Representing
+		// Variable declaration as well as initialization
+		byte a = 127;
+		short b = 32767;
+		int c = 2_147_483_647;
+		long d = 9_223_372_036_854_775_807L;
+		
+
+	}
+
+}

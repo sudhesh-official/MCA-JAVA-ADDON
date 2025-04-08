@@ -1,0 +1,19 @@
+package datatypes;
+
+import java.util.Scanner;
+
+public class Example {
+
+	public static void main(String[] args) {
+		
+			/**
+			 * Primitive data types
+			 * byte, short, int, long, float, double, boolean and char
+			 */
+		//1. Number Representing
+		byte a = 'a';
+		
+
+	}
+
+}

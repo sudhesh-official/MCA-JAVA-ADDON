@@ -1,0 +1,15 @@
+package L09.EnumInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Learning learning = Learning.GENERICS;
+		
+		switch (learning) {
+		case COREJAVA -> System.out.println("Core Java");
+		}
+
+	}
+
+}

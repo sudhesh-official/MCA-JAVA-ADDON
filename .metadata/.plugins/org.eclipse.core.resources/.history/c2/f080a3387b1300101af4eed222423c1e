@@ -1,0 +1,10 @@
+package L06.ConstructorIntroductionInJava;
+
+public class Car {
+	
+	public void fun1() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
